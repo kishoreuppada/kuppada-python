@@ -8,4 +8,13 @@ Thanks,
 
 Shi
 
+-- Added by Shi
 Editting this file to test conflicts.
+
+Reply--
+
+Just did but it's on your repository..
+
+Regards,
+Kishroe
+
