@@ -19,6 +19,4 @@ Reply--
 Just did but it's on your repository..
 
 Regards,
-Kishroe
-
-
+Kishore
