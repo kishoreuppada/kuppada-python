@@ -1,4 +1,7 @@
-Testing
+#My Conversion Tools
+def dollars2cents(dollars);
+    cents = dollars * 100
+    return cents
 
 Hello Kishore,
 
@@ -17,4 +20,5 @@ Just did but it's on your repository..
 
 Regards,
 Kishroe
+
 
